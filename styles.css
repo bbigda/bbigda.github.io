@@ -1,0 +1,12 @@
+:root{
+    --primary : #304ffe;
+}
+
+.color-block{
+    padding: 2rem;
+    /*background-color: var(--primary);*/
+}
+
+/*img{*/
+/*    mix-blend-mode: overlay;*/
+/*}*/
