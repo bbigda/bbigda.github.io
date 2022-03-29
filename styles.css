@@ -9,4 +9,5 @@ body {
     color: white;
     padding: 2rem;
     font-size: 5rem;
+    border: 0.5rem dashed var(--primary-color);
 }
